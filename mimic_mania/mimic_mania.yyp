@@ -53,6 +53,7 @@
     {"id":{"name":"spr_gate_wood_2","path":"sprites/spr_gate_wood_2/spr_gate_wood_2.yy",},},
     {"id":{"name":"spr_chest","path":"sprites/spr_chest/spr_chest.yy",},},
     {"id":{"name":"ts_floor","path":"tilesets/ts_floor/ts_floor.yy",},},
+    {"id":{"name":"Global","path":"scripts/Global/Global.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
