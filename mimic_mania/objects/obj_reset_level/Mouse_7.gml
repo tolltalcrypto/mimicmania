@@ -1,7 +1,8 @@
 event_inherited()
-instance_create_layer(x, y, "Instances", obj_start)
-instance_destroy()
 
+// restart the room
+global.game_start = false
+room_restart()
 
 
 
