@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object5",
+  "name": "obj_adventurer3",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level",
-    "path": "folders/Sprites/Level.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_player_idle",
+    "path": "sprites/spr_player_idle/spr_player_idle.yy",
+  },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
