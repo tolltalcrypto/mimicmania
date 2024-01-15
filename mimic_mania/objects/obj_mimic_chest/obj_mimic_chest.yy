@@ -4,12 +4,13 @@
   "name": "obj_mimic_chest",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_adventurer","path":"objects/obj_adventurer/obj_adventurer.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Mimic",
+    "path": "folders/Objects/Game/Mimic.yy",
   },
   "parentObjectId": null,
   "persistent": false,

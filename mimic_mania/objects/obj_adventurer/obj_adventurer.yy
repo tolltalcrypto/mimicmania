@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_adventurer4",
+  "name": "obj_adventurer",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Adventurer",
+    "path": "folders/Objects/Game/Adventurer.yy",
   },
   "parentObjectId": {
     "name": "obj_adventurer_parent",

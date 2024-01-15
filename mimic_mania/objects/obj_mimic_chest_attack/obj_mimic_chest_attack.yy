@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_adventurer3",
-  "eventList": [],
+  "name": "obj_mimic_chest_attack",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Mimic",
+    "path": "folders/Objects/Game/Mimic.yy",
   },
-  "parentObjectId": {
-    "name": "obj_adventurer_parent",
-    "path": "objects/obj_adventurer_parent/obj_adventurer_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,9 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_idle",
-    "path": "sprites/spr_player_idle/spr_player_idle.yy",
+    "name": "spr_mimic_attack",
+    "path": "sprites/spr_mimic_attack/spr_mimic_attack.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
