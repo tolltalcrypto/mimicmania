@@ -1,16 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_chest",
+  "name": "obj_adventurer_spawner",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_adventurer_parent","path":"objects/obj_adventurer_parent/obj_adventurer_parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Treasure",
-    "path": "folders/Objects/Game/Treasure.yy",
+    "name": "Adventurer",
+    "path": "folders/Objects/Game/Adventurer.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_chest",
-    "path": "sprites/spr_chest/spr_chest.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

@@ -1,16 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_chest",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_adventurer_parent","path":"objects/obj_adventurer_parent/obj_adventurer_parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_exit_sign",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Treasure",
-    "path": "folders/Objects/Game/Treasure.yy",
+    "name": "Environment",
+    "path": "folders/Objects/Game/Environment.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_chest",
-    "path": "sprites/spr_chest/spr_chest.yy",
+    "name": "spr_exit_sign",
+    "path": "sprites/spr_exit_sign/spr_exit_sign.yy",
   },
   "spriteMaskId": null,
   "visible": true,
