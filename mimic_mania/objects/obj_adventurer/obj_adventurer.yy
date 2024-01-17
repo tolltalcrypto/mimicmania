@@ -33,5 +33,5 @@
     "path": "sprites/spr_player_idle/spr_player_idle.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
