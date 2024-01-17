@@ -1,17 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_mimic_chest_attack",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
-  ],
+  "name": "obj_escape",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Mimic",
-    "path": "folders/Objects/Game/Treasure/Mimic.yy",
+    "name": "Treasure",
+    "path": "folders/Objects/Game/Treasure.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_treasure_parent",
+    "path": "objects/obj_treasure_parent/obj_treasure_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mimic_attack",
-    "path": "sprites/spr_mimic_attack/spr_mimic_attack.yy",
+    "name": "spr_escape",
+    "path": "sprites/spr_escape/spr_escape.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

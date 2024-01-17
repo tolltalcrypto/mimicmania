@@ -1,0 +1,9 @@
+global.chest_count++
+
+
+
+
+
+
+
+

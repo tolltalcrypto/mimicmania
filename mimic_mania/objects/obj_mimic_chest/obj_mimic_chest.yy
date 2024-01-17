@@ -10,9 +10,12 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Mimic",
-    "path": "folders/Objects/Game/Mimic.yy",
+    "path": "folders/Objects/Game/Treasure/Mimic.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_treasure_parent",
+    "path": "objects/obj_treasure_parent/obj_treasure_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

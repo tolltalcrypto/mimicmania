@@ -5,14 +5,18 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_adventurer_parent","path":"objects/obj_adventurer_parent/obj_adventurer_parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Treasure",
-    "path": "folders/Objects/Game/Treasure.yy",
+    "name": "Chest",
+    "path": "folders/Objects/Game/Treasure/Chest.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_treasure_parent",
+    "path": "objects/obj_treasure_parent/obj_treasure_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

@@ -1,2 +1,2 @@
-global.mimic_count = 5
+global.mimic_count = 20
 global.adventurer_count = 3
