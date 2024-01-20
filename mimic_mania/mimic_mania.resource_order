@@ -56,6 +56,7 @@
     {"name":"spr_chest_open","order":1,"path":"sprites/spr_chest_open/spr_chest_open.yy",},
     {"name":"spr_window","order":1,"path":"sprites/spr_window/spr_window.yy",},
     {"name":"snd_adventurer_defeat","order":1,"path":"sounds/snd_adventurer_defeat/snd_adventurer_defeat.yy",},
+    {"name":"seq_lose_screen","order":1,"path":"sequences/seq_lose_screen/seq_lose_screen.yy",},
     {"name":"spr_gate_wood_2","order":3,"path":"sprites/spr_gate_wood_2/spr_gate_wood_2.yy",},
     {"name":"obj_start","order":1,"path":"objects/obj_start/obj_start.yy",},
     {"name":"spr_help_close","order":2,"path":"sprites/spr_help_close/spr_help_close.yy",},

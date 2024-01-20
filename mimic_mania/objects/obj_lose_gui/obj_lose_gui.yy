@@ -2,17 +2,17 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_lose_gui",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Menu",
     "path": "folders/Objects/Menu.yy",
   },
-  "parentObjectId": {
-    "name": "obj_button_parent",
-    "path": "objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
