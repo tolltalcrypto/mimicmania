@@ -15,4 +15,3 @@ for (var i = 0; i < instance_number(obj_treasure_parent); i++) {
 
 
 
-
