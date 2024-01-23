@@ -69,6 +69,7 @@
     {"id":{"name":"spr_mimic_chest","path":"sprites/spr_mimic_chest/spr_mimic_chest.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"obj_mimic_chest","path":"objects/obj_mimic_chest/obj_mimic_chest.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"obj_mimic_chest_attack","path":"objects/obj_mimic_chest_attack/obj_mimic_chest_attack.yy",},},
     {"id":{"name":"spr_Mimic_Atk","path":"sprites/spr_Mimic_Atk/spr_Mimic_Atk.yy",},},
     {"id":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},},
@@ -100,6 +101,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

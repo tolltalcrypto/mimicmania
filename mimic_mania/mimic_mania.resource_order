@@ -46,6 +46,7 @@
     {"name":"Logging","order":1,"path":"scripts/Logging/Logging.yy",},
     {"name":"spr_mimic_chest","order":4,"path":"sprites/spr_mimic_chest/spr_mimic_chest.yy",},
     {"name":"obj_mimic_chest","order":1,"path":"objects/obj_mimic_chest/obj_mimic_chest.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"obj_mimic_chest_attack","order":2,"path":"objects/obj_mimic_chest_attack/obj_mimic_chest_attack.yy",},
     {"name":"spr_Mimic_Atk","order":12,"path":"sprites/spr_Mimic_Atk/spr_Mimic_Atk.yy",},
     {"name":"fnt_button","order":1,"path":"fonts/fnt_button/fnt_button.yy",},

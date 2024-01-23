@@ -9,10 +9,7 @@
     "name": "Treasure",
     "path": "folders/Objects/Game/Treasure.yy",
   },
-  "parentObjectId": {
-    "name": "obj_treasure_parent",
-    "path": "objects/obj_treasure_parent/obj_treasure_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
