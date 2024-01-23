@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mimic_attack",
-    "path": "sprites/spr_mimic_attack/spr_mimic_attack.yy",
+    "name": "spr_Mimic_Atk",
+    "path": "sprites/spr_Mimic_Atk/spr_Mimic_Atk.yy",
   },
   "spriteMaskId": null,
   "visible": true,
