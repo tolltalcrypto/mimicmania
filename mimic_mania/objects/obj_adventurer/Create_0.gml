@@ -9,4 +9,3 @@ print(global.alive_adventurers)
 obj_adventurer.depth = 75
 
 
-print("adventurer depth: " + string(depth))
