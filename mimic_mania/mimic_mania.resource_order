@@ -48,7 +48,6 @@
     {"name":"spr_player_walk_down","order":2,"path":"sprites/spr_player_walk_down/spr_player_walk_down.yy",},
     {"name":"snd_level","order":3,"path":"sounds/snd_level/snd_level.yy",},
     {"name":"Logging","order":1,"path":"scripts/Logging/Logging.yy",},
-    {"name":"spr_mimic_chest","order":4,"path":"sprites/spr_mimic_chest/spr_mimic_chest.yy",},
     {"name":"obj_mimic_chest","order":1,"path":"objects/obj_mimic_chest/obj_mimic_chest.yy",},
     {"name":"spr_sconce_on","order":17,"path":"sprites/spr_sconce_on/spr_sconce_on.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
@@ -61,7 +60,6 @@
     {"name":"obj_lose_gui","order":4,"path":"objects/obj_lose_gui/obj_lose_gui.yy",},
     {"name":"spr_player_walk_up","order":4,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
     {"name":"spr_gate_wood_1","order":2,"path":"sprites/spr_gate_wood_1/spr_gate_wood_1.yy",},
-    {"name":"spr_chest_open","order":1,"path":"sprites/spr_chest_open/spr_chest_open.yy",},
     {"name":"spr_window","order":1,"path":"sprites/spr_window/spr_window.yy",},
     {"name":"snd_adventurer_defeat","order":1,"path":"sounds/snd_adventurer_defeat/snd_adventurer_defeat.yy",},
     {"name":"spr_Mimic_idle","order":13,"path":"sprites/spr_Mimic_idle/spr_Mimic_idle.yy",},
@@ -72,6 +70,5 @@
     {"name":"spr_help_close","order":2,"path":"sprites/spr_help_close/spr_help_close.yy",},
     {"name":"spr_sconce_off","order":16,"path":"sprites/spr_sconce_off/spr_sconce_off.yy",},
     {"name":"spr_escape","order":11,"path":"sprites/spr_escape/spr_escape.yy",},
-    {"name":"spr_mimic_attack","order":9,"path":"sprites/spr_mimic_attack/spr_mimic_attack.yy",},
   ],
 }

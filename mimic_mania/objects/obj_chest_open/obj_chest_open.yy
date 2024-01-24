@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_chest_open",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_chest_open",
-    "path": "sprites/spr_chest_open/spr_chest_open.yy",
+    "name": "spr_chest_gold",
+    "path": "sprites/spr_chest_gold/spr_chest_gold.yy",
   },
   "spriteMaskId": null,
   "visible": true,
