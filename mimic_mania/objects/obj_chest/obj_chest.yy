@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_chest",
-    "path": "sprites/spr_chest/spr_chest.yy",
+    "name": "spr_Mimic_idle",
+    "path": "sprites/spr_Mimic_idle/spr_Mimic_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,
