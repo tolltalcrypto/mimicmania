@@ -22,6 +22,9 @@ for (var _i = 0; _i < global.adventurer_count; ++_i) {
 }
 
 
+// Start walking sounds
+audio_play_sound(snd_adventurer_walking, 0, 1, 0.5);
+
 
 
 

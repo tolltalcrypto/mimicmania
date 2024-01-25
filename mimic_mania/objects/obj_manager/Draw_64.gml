@@ -1,7 +1,7 @@
 /// @Draw HUD
 
 // Draw the HUD coin sprite
-draw_sprite(spr_Mimic_idle, 0, room_width - 120, 40);
+draw_sprite(spr_Mimic_Atk, 23, room_width - 140, 40);
 
 // Change the font to ft_hud
 draw_set_font(fnt_hud);
