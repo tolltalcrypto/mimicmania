@@ -67,6 +67,7 @@
     {"name":"spr_gate_wood_2","order":3,"path":"sprites/spr_gate_wood_2/spr_gate_wood_2.yy",},
     {"name":"spr_chest_rest","order":14,"path":"sprites/spr_chest_rest/spr_chest_rest.yy",},
     {"name":"obj_start","order":1,"path":"objects/obj_start/obj_start.yy",},
+    {"name":"obj_instructions_gui","order":5,"path":"objects/obj_instructions_gui/obj_instructions_gui.yy",},
     {"name":"spr_help_close","order":2,"path":"sprites/spr_help_close/spr_help_close.yy",},
     {"name":"spr_sconce_off","order":16,"path":"sprites/spr_sconce_off/spr_sconce_off.yy",},
     {"name":"spr_escape","order":11,"path":"sprites/spr_escape/spr_escape.yy",},

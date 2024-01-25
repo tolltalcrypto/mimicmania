@@ -93,6 +93,7 @@
     {"id":{"name":"ts_floor","path":"tilesets/ts_floor/ts_floor.yy",},},
     {"id":{"name":"spr_chest_rest","path":"sprites/spr_chest_rest/spr_chest_rest.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
+    {"id":{"name":"obj_instructions_gui","path":"objects/obj_instructions_gui/obj_instructions_gui.yy",},},
     {"id":{"name":"obj_adventurer","path":"objects/obj_adventurer/obj_adventurer.yy",},},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
     {"id":{"name":"spr_help_close","path":"sprites/spr_help_close/spr_help_close.yy",},},
