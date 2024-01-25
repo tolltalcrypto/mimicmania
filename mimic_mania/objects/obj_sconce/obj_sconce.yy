@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_chest_open",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
-  ],
+  "name": "obj_sconce",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Chest",
-    "path": "folders/Objects/Game/Treasure/Chest.yy",
+    "name": "Environment",
+    "path": "folders/Objects/Game/Environment.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_chest_gold",
-    "path": "sprites/spr_chest_gold/spr_chest_gold.yy",
+    "name": "spr_sconce_on",
+    "path": "sprites/spr_sconce_on/spr_sconce_on.yy",
   },
   "spriteMaskId": null,
   "visible": true,
